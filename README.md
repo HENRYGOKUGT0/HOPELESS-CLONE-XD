@@ -45,7 +45,7 @@ Join our WhatsApp group for updates and discussions!
 # <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=green&style=for-the-badge&logo=msi"></a>
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## DEPLOY ON PANNEL 
-<a href='https://cloud.okteto.com/login' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
+<a href='https://bot-hosting.net/?aff=1260744175356346430' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ```
@@ -54,11 +54,11 @@ const { existsSync, writeFileSync } = require('fs')
 
 const SESSION_ID = 'ADD YOUR SESSION ID' // Edit this line only, don't remove ' <- this symbol
 
-if (!existsSync('Itxxwasi')) {
+if (!existsSync('HENRYGOKUGT0')) {
   console.log('Cloning the repository...')
   const cloneResult = spawnSync(
     'git',
-    ['clone', 'https://github.com/Itxxwasi/WASI-MD-V.git', 'Itxxwasi'],
+    ['clone', 'https://github.com/HENRYGOKUGT0/HOPELESS-CLONE-XD.git', 'HENRYGOKUGT0'],
     {
       stdio: 'inherit',
     }
@@ -68,7 +68,7 @@ if (!existsSync('Itxxwasi')) {
     throw new Error(`Failed to clone the repository: ${cloneResult.error.message}`)
   }
 
-  const configPath = 'Itxxwasi/config.env'
+  const configPath = 'HENRYGOKUGT0/config.env'
   try {
     console.log('Writing to config.env...')
     writeFileSync(configPath, `VPS=true\nSESSION_ID=${SESSION_ID}`)
@@ -78,7 +78,7 @@ if (!existsSync('Itxxwasi')) {
 
   console.log('Installing dependencies...')
   const installResult = spawnSync('yarn', ['install', '--network-concurrency', '3'], {
-    cwd: 'Itxxwasi',
+    cwd: 'HENRYGOKUGT0',
     stdio: 'inherit',
   })
 
@@ -87,7 +87,7 @@ if (!existsSync('Itxxwasi')) {
   }
 }
 
-spawnSync('yarn', ['start'], { cwd: 'Itxxwasi', stdio: 'inherit' })
+spawnSync('yarn', ['start'], { cwd: 'HENRYGOKUGT0', stdio: 'inherit' })
 ```
 ### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆
  [`ASTROPED FOR PLUGINS `](https://github.com/astroped)
