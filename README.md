@@ -36,7 +36,7 @@ Join our WhatsApp group for updates and discussions!
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-<h2>📌IF YOU WANT THE SEASON ID FOR YOUR NUMBER kindly tap on the above👆</h2>
+<h2>📌IF YOU WANT THE 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 FOR YOUR NUMBER kindly tap on the above IMAGE👆</h2>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 #### 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕤𝕖𝕔𝕥𝕚𝕠𝕟
