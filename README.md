@@ -1,56 +1,39 @@
 <p align="center">  
   <a href="https://session-generator-bsji.onrender.com">
     <img alt="wasi" height="300" src="https://i.ibb.co/JjQSJhK/tap-here-4470927.png">
-    <h1 align="center">WASI MD V2</h1>
+    <h1 align="center">HOPELESS XD</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Itxxwasi"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/HENRYGOKUGT0"><img title="Author" src="https://img.shields.io/badge/HENRYGOKUGT0-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/CkIGluck2EI6zToAmhw2Nw"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/256789810043"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/WASI-MD-V?&style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/WASI-MD-V?style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxxwasi/WASI-MD-V?label=Watching&style=social"></a>
+<a href="https://github.com/HENRYGOKUGT0?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HENRYGOKUGT0?label=Followers&style=social"></a>
+<a href="https://github.com/HENRYGOKUGT0/HOPELESS-CLONE-XD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HENRYGOKUGT0/HOPELESS-CLONE-XD?&style=social"></a>
+<a href="https://github.com/HENRYGOKUGT0/HOPELESS-CLONE-XD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/HENRYGOKUGT0/HOPELESS-CLONE-XD?style=social"></a>
+<a href="https://github.com/HENRYGOKUGT0/HOPELESS-CLONE-XD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HENRYGOKUGT0/HOPELESS-CLONE-XD?label=Watching&style=social"></a>
 </p>
 
 ####  
 # My Awesome Project
 
 Welcome to my awesome project! Here you'll find...
-## YouTube Channel
+## NOTE DON'T CLONE 🤭
 
-Check out my YouTube channel for tutorials and more!
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-[![YouTube Channel](https://img.shields.io/badge/Subscribe-My%20Channel-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@wasitech1)
-## WhatsApp Channel
+Join our WhatsApp group for updates and discussions!
 
-Join our WhatsApp channel for updates and discussions!
+[![WhatsApp group](https://img.shields.io/badge/Join-WhatsApp%20group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/CkIGluck2EI6zToAmhw2Nw)
+## WhatsApp Support Group 👆
 
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j)
-## WhatsApp Support Group
-
-Join our WhatsApp support group for assistance and discussions!
-
-[![WhatsApp Support Group](https://img.shields.io/badge/Join-WhatsApp%20Support%20Group-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Dd2RCJsumFWBfQ6290pDy8)
-
-#### SETUP
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 1.𝔽𝕠𝕣𝕜 𝕥𝕙𝕖 𝕣𝕖𝕡𝕠
     <br>
-<a href='https://github.com/Itxxwasi/WASI-MD-V/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+<a href='https://github.com/HENRYGOKUGT0/HOPELESS-CLONE-XD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColUSEor=black&color=green'/></a>
 
-[GET UPDATEED SESSION ID FROM REPLIT](https://replit.com/@mrwasidev/session?v=1)
-
-2.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (ℙ𝔸𝕀ℝ𝕀ℕ𝔾)
-    <br>
-<a href='https://wasi-bot-web.vercel.app/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
-
-
-3. [𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻](https://replit.com/@mrwasidev/session?v=1)
-
-    <br>
-<a href='https://wasi-bot-web.vercel.app/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+<h2 IF YOU WANT THE SEASON ID FOR YOUR NUMBER kindly tap on the above </h2>
 
 
 #### 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕤𝕖𝕔𝕥𝕚𝕠𝕟
