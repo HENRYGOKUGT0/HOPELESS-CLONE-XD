@@ -33,7 +33,7 @@ Join our WhatsApp group for updates and discussions!
     <br>
 <a href='https://github.com/HENRYGOKUGT0/HOPELESS-CLONE-XD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColUSEor=black&color=green'/></a>
 
-<h2 IF YOU WANT THE SEASON ID FOR YOUR NUMBER kindly tap on the above </h2>
+<h2> IF YOU WANT THE SEASON ID FOR YOUR NUMBER kindly tap on the above</h2>
 
 
 #### 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕤𝕖𝕔𝕥𝕚𝕠𝕟
