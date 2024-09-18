@@ -29,9 +29,10 @@ Join our WhatsApp group for updates and discussions!
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-1.𝔽𝕠𝕣𝕜 𝕥𝕙𝕖 𝕣𝕖𝕡𝕠
-    <br>
-<a href='https://github.com/HENRYGOKUGT0/HOPELESS-CLONE-XD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColUSEor=black&color=green'/></a>
+## 𝔽𝕠𝕣𝕜 𝕥𝕙𝕖 𝕣𝕖𝕡𝕠
+<a href="https://github.com/HENRYGOKUGT0/HOPELESS-CLONE-XD/fork" target="_blank">
+  <img src="https://img.shields.io/badge/FORK STAR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+</a>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
