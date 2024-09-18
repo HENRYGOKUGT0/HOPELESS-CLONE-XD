@@ -33,8 +33,8 @@ Join our WhatsApp group for updates and discussions!
     <br>
 <a href='https://github.com/HENRYGOKUGT0/HOPELESS-CLONE-XD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColUSEor=black&color=green'/></a>
 
-<h2> IF YOU WANT THE SEASON ID FOR YOUR NUMBER kindly tap on the above</h2>
-
+<h2>📌IF YOU WANT THE SEASON ID FOR YOUR NUMBER kindly tap on the above👆</h2>
+<h8>Hello whatsapp</h8>
 
 #### 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕤𝕖𝕔𝕥𝕚𝕠𝕟
 # <a href="https://dashboard.heroku.com/new?template=https://github.com/wasixd/WASI-MD-V"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=green&style=for-the-badge&logo=msi"></a>
