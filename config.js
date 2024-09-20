@@ -1,13 +1,12 @@
 //#ENJOY
 /**
 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░ ░▒▓███████▓▒░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░░▒▓██████▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░ 
-░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░ 
- ░▒▓█████████████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░ 
+██╗░░██╗░█████╗░██████╗░███████╗
+██║░░██║██╔══██╗██╔══██╗██╔════╝
+███████║██║░░██║██████╔╝█████╗░░
+██╔══██║██║░░██║██╔═══╝░██╔══╝░░
+██║░░██║╚█████╔╝██║░░░░░███████╗
+╚═╝░░╚═╝░╚════╝░╚═╝░░░░░╚══════╝
                                                       
 
 **/
@@ -34,7 +33,7 @@ global.website =
 global.THUMB_IMAGE =
   process.env.THUMB_IMAGE ||
   process.env.IMAGE ||
-  "https://telegra.ph/file/1f4e6e1cc2ed1662adb36.jpg";
+  "https://i.ibb.co/RHqJM2Z/Free-Fire-09-19-2024-18-41-22.png";
 global.devs = "256789810043";
 global.sudo = process.env.SUDO || "256789810043";
 global.owner = process.env.OWNER_NUMBER || "256789810043";
@@ -57,7 +56,7 @@ global.read_status_from = process.env.READ_STATUS_FROM || "";
 global.autoreaction = process.env.autoreaction || "true";
 
 global.api_smd = "https://api-smd-1.vercel.app";
-global.scan = "https://pair-qr-wasi-md.onrender.com";
+global.scan = "https://session-generator-bsji.onrender.com";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
