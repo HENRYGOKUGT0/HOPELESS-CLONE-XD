@@ -222,4 +222,4 @@ const {
     } catch (_0x4c39a6) {
       _0x1f82ce.error(_0x4c39a6 + "\n\nCommand: " + _0x123e7d, _0x4c39a6, false);
     }
-  });
+  }); 
