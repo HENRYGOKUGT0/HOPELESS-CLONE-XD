@@ -1,1 +1,1 @@
-#### powered by wasi
+#### powered by NEXA
