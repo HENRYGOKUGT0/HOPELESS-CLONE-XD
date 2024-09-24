@@ -363,4 +363,4 @@ let {
      _0x173fc2.error(_0x3e2d80 + "\n\nCommand: svcontact", _0x3e2d80, "_ERROR Process Denied :(_");
    }
  }); // POWERED BY SUHAIL-MD, MADE WITH ❤️
- // MORE PLUG-INS : https://github.com/SuhailTechInfo/Suhail-Md-Media
+ // MORE PLUG-INS : https://github.com/SuhailTechInfo/Suhail-Md-Media 
