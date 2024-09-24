@@ -128,4 +128,4 @@ smd(
       message.reply(`*ERROR!* `);
     }
   }
-);
+); 
