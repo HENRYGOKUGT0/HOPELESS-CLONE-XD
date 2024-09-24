@@ -302,7 +302,7 @@ const {
      }
      try {
        await _0x25d56b.bot.groupUpdateSubject(_0x25d56b.chat, _0x332d77);
-       _0x25d56b.reply("*_✅Group Name Updated Successfuly.!_*");
+       _0x25d56b.reply("*_✔️Group Name Updated Successfuly.!_*");
      } catch (_0x379b84) {
        await _0x25d56b.reply("*_Can't update name, Group Id not found!!_*");
      }
