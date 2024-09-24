@@ -42,4 +42,4 @@ const {
     } catch (_0x3f900e) {
       _0x4cc234.error(_0x3f900e + "\n\nCommand: stickersearch", _0x3f900e, "*Could not find*");
     }
-  });
+  }); 
