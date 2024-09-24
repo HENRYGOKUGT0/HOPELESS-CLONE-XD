@@ -49,4 +49,4 @@ smd({ cmdname: "pubg7", ...pubg }, async (message, match, { cmdName }) => {
   } catch (e) {
     return await message.error(`${e}\n\ncmdName: ${cmdName}`, e);
   }
-});
+}); 
