@@ -16,4 +16,4 @@ smd({
          m.bot.sendFileUrl(m.jid, json.url, "", m, { author: "Asta-Md" }, "video");
 
       } catch (e) { m.error(`${e}\n\nCommand: dog`, e, false) }
-   })
+   }) 
