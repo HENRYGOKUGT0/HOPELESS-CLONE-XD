@@ -50,22 +50,22 @@
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/wasixd/WASI-MD' // Source URL
-const number = '923135673658'
-var name = ' 𝕎𝔸𝕊𝕀 𝕋𝔼ℂℍ'
+var surl = 'https://github.com/HENRYGOKUGT0/HOPELESS-CLONE-XD' // Source URL
+const number = '256789810043'
+var name = ' NEXA 𝕋'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/2c30fa9e6f61ef8ba03a2.jpg'
+var image = 'https://files.catbox.moe/7a7bv8.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
-│       「 𝐖𝐀𝐒𝐈 𝐓𝐄𝐂𝐇 𝐈𝐍𝐓𝐑𝐎  」
+│       「 ELON MUSK 𝐈𝐍𝐓𝐑𝐎  」
 │ Name      : 𝐖𝐀𝐒𝐈 
-│ Place       : 𝐈𝐒𝐋𝐀𝐌𝐀𝐁𝐀𝐃, 𝐏𝐀𝐊𝐈𝐒𝐓𝐀𝐍
+│ Place       : NEXA, UNKNOWN 
 │ Gender    :  𝐌𝐀𝐋𝐄
-│ Age          : 20
+│ Age          : ......
 │ education : 𝐁𝐒 𝐒𝐄 
 │ good vibes : 𝐒𝐓𝐀𝐘 𝐂𝐋𝐀𝐌
-│ Phone     : wa.me/923135673658
-│ Youtube   : youtube.com/@wasitech1
-│ GitHub    : https://github.com/Itxxwasi 
+│ Phone     : wa.me/256789810043
+│ Youtube   : youtube.com/@henrygokugt256
+│ GitHub    : https://github.com/HENRYGOKUGT0
 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
