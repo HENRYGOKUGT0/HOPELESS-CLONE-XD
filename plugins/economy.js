@@ -103,7 +103,7 @@ async(message,match) => {
 
             break
 default:
-await message.reply('*What are you trying to do📉*.')
+await message.reply('*What are you trying to do📈*.')
 
 }
 
