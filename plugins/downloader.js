@@ -853,7 +853,7 @@ smd(
           const sticker = await getBuffer(fileUrl);
           await message.reply(
             sticker,
-            { packname: Config.packname, author: "WASI-Md" },
+            { packname: Config.packname, author: "HOPE-Md" },
             "sticker",
           );
         } else {
@@ -1247,8 +1247,8 @@ smd(
           : "";
       if (!_0x1c586e) {
         return await _0x1ae8f8.reply(
-          "*Provide Repo Url, _.gitclone https://github.com/Itxxwasi/WASI-Md_*",
-        );
+          "*Provide Repo Url, _.gitclone https://github.com/HENRYGOKUGT0/HOPELESS-CLONE-XD_*",
+        )
       }
       const _0x5906ab =
         /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i;
@@ -1321,7 +1321,7 @@ smd(
             },
             mimetype: "audio/mpeg",
             ptt: true,
-            fileName: "WASI-Md-tts.m4a",
+            fileName: "ELON-MUSK-tts.m4a",
           },
           {
             quoted: _0x55aba2,
