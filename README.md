@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://session-generator-bsji.onrender.com">
-    <img alt="wasi" height="600" src="https://files.catbox.moe/wxm43d.jpg">
+    <img alt="NEXA" height="600" src="https://files.catbox.moe/wxm43d.jpg">
     <h1 align="center">HOPELESS XD</h1>
   </a>
 </p>
