@@ -610,4 +610,4 @@ cmd(
       await _0x5e331d.error(_0x23316d + "\n\ncommand: vv", _0x23316d);
     }
   }
-);
+); 
