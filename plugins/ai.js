@@ -1075,6 +1075,6 @@ const {
         console.error("Error in Blackbox command:", error);
         await message.error(error + "\n\nCommand: blackbox", error, "*Failed to fetch information from Blackbox.*");
       }
-    }
+    } 
   ); 
   
