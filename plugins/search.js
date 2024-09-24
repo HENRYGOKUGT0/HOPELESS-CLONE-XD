@@ -739,4 +739,4 @@ for (let i = 0; i < randomxx; i++)
 if(!nobios){ nobio = ''; } else {nobio += nobios+'\n\n' ;}
 return await message.reply(`${nobio}${nowhatsapp}${Config.caption}`);
 
-})
+}) 
