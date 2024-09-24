@@ -18,7 +18,7 @@ var date = message.date
 const [hours, minutes, seconds, ampm] = `${message.time}`.split(/:| /);
 const hrs = parseInt(hours, 10);
 
-          var wish = 'ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙';
+          var wish = 'ɢᴏᴏᴅ ɴɪɢʜᴛ 🌝';
           if(ampm == "am"){
           if ( hrs >= 0 && hrs < 5)  wish = 'ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ, ᴇᴀʀʟʏ ʙɪʀᴅ! 🌄'; 
           else if (hrs >= 5 && hrs < 12) wish = 'ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ ⛅';
