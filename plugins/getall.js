@@ -20,7 +20,7 @@ let str = "";
     if(cd === "members" || cd === "member") {
       if (!citel.isGroup) return citel.reply(tlang("group"));
       const participants = citel.metadata.participants || {};
-      for (let i of participants) {    str += `📍 ${i.id}\n`;   }
+      for (let i of participants) {    str += `📌 ${i.id}\n`;   }
       str ? citel.reply(`*「 LIST OF GROUP MEMBER'S JID 」*\n\n` +str) : citel.reply("*Request Denied!*")
     }else if(cd == "user" || cd == "pm" || cd == "pc"){
         let anu = await store.chats.all().filter(v => v.id.endsWith('.net')).map(v => v)
