@@ -43,4 +43,4 @@ amd(
   async (message) => {
     await message.send("Hello There");
   }
-);
+); 
