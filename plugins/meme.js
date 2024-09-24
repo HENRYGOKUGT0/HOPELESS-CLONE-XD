@@ -282,7 +282,7 @@ smd({
       caption: Config.caption
     });
   } catch (_0x4f2426) {
-    return await _0x3faf31.error(_0x4f2426 + "\n\n command: imran", _0x4f2426, "*_Didn't get any results, Sorry!_*");
+    return await _0x3faf31.error(_0x4f2426 + "\n\n command: imran", _0x4f2426, "*_Didn't get any results, Sorry😓!_*");
   }
 });
 const {
