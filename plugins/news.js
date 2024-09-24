@@ -322,4 +322,4 @@ smd({
       console.error('Error fetching NASA news:', error);
       await message.send('_Failed to fetch NASA news._', { quoted: message.data });
   }
-});
+}); 
