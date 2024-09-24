@@ -149,4 +149,4 @@ let txt = `╭───── *『 MONGODB NOTES 』* ───◆
 
    }catch(e){ await message.error(`${e}\n\ncommand: addnote`,e,`*Can't fetch data, Sorry!*`) }
 })
-
+ 
