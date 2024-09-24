@@ -285,4 +285,4 @@ smd({
     } catch (e) {
       return await message.error(`${e}\n\ncmdName: ${cmdName}`, e);
     }
-   });
+   }); 
