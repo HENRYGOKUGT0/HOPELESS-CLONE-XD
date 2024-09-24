@@ -1076,5 +1076,5 @@ const {
         await message.error(error + "\n\nCommand: blackbox", error, "*Failed to fetch information from Blackbox.*");
       }
     }
-  );
+  ); 
   
